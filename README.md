@@ -1,4 +1,4 @@
-# Namaste Frontend System Design 🚀
+# Frontend System Design 🚀
 
 
 # Security
